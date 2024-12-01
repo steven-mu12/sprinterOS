@@ -1,16 +1,11 @@
 # sprinterOS
-Lightweight ARM operating system designed for Cortex-A8
+Lightweight ARM Cortex-A8 bootloader and operating system 
 
 ## Task Board and Documentation
-Mostly our project is tracked with Jira. However, since we don't have the paid plan, we can't make it visible to the public.
+Mostly our project is tracked with Jira. However, since we don't have the paid plan, we can't make it visible to the public. Below use services that are public - all of them are in sync with Jira
 
-Below use services that are public - all of them are in sync with Jira
-
-Trello (In Sync with the Jira Board): https://trello.com/b/rQrKLD54/sprinteros-dev-2024q41-nov-20th-dec-4th-2024
-
-Documentation: https://feline-cicada-bfc.notion.site/SprinterOS-Boot-118e9ea46d32801a8be5c2b7a2220189
-
-Completed / Future Sprints:
+#### Trello (In Sync with the Jira Board): https://trello.com/b/rQrKLD54/sprinteros-dev-2024q41-nov-20th-dec-4th-2024
+#### Documentation: https://feline-cicada-bfc.notion.site/SprinterOS-Boot-118e9ea46d32801a8be5c2b7a2220189
 
 If you would like access to the project on Jira, please send me an email at xsmu0922@gmail.com
 
