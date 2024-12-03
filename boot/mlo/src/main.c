@@ -14,7 +14,22 @@
 
 #include <stdint.h>
 
+/* DDR initialization */
+static int init_ddr() {
+
+    return 0;
+}
+
+
+/* _main function */
 int _main( void ) {
-    int x = 0;
-    return x;
+    
+    // run DDR init
+    if (init_ddr()) {
+        asm("b .");           // since we don't have prints yet, enter deadloop and never return
+    }
+
+
+
+    return 0;
 }

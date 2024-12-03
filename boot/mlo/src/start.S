@@ -31,4 +31,7 @@ CLEAR_BSS:
 
 GO_MAIN:
     /* Jump into MLO C Function */
-    b       _main
+    bl      _main
+
+    /* If that main ever returns (bad) */
+    b       .
